@@ -1,7 +1,8 @@
 To run VulnLab-PHP:
+***
 first install 
 sudo apt install php-sqlite3
-# Debian/Ubuntu/Kali
+Debian/Ubuntu/Kali
 1. Start it
 
 cd vulnlab-php
