@@ -7,6 +7,7 @@ Debian/Ubuntu/Kali
 1. Start it
 
 cd vulnlab-php
+
 php -S 127.0.0.1:8000 -t public
 
 (or docker compose up --build if you’d rather containerize it)
